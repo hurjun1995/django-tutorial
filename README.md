@@ -1,2 +1,2 @@
-# mystic
+# mystie
 repository for django tutorial
